@@ -1,4 +1,4 @@
-const hello = () => "Hello World from the Office Hours in the terminal!";
+const hello = () => "Hello World! This is my AWS Project!!";
 console.log(hello());
 exports.hello = hello;
 
